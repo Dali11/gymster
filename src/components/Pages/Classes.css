@@ -1,0 +1,74 @@
+.card1{
+    background: rgb(245, 245, 245);
+    padding: 15px;
+    width: 100%;
+    height: 63vh;
+}
+
+.cards{
+    top: -130px;
+    position: inherit;
+    width: 100%;
+    height: 50vh;
+    padding: 10px;
+}
+
+.big{
+    height: 90vh;
+    position: relative;
+}
+
+.content{
+    top: 20px;
+    font-weight: bolder;
+    color: rgb(226, 221, 221);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+
+@media screen and (max-width: 1020px) {
+    .card1{
+        width: 80%;
+        height: auto;
+        margin: auto;
+    }
+
+    .cards{
+        position: absolute;
+        top: -60px;
+        
+    }
+
+    .big{
+        height: 190vh;
+    }
+
+    .content{
+        position: inherit;
+        z-index: 1;
+        top: 1200px;
+        font-size: 30px;
+        font-weight: bolder;
+        color: rgb(226, 221, 221);
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        text-align: center;
+        padding-top: 30px;
+    }
+    .btn{
+        width: 50%;
+        padding-bottom: 60px;
+        display: flex;
+        justify-content: center;
+        margin-left: 200px;
+    }
+    
+    .button{
+        font-size: 15px;
+    }
+    
+}
