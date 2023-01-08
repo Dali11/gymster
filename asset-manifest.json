@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gymster/static/css/main.4d3f66d7.css",
+    "main.js": "/gymster/static/js/main.bb268ec5.js",
+    "static/media/carousel-2.jpg": "/gymster/static/media/carousel-2.a84d26f161bb687fa7dd.jpg",
+    "static/media/carousel-1.jpg": "/gymster/static/media/carousel-1.4cc3608b65a9ae72d619.jpg",
+    "static/media/about.jpg": "/gymster/static/media/about.f06758d273da49e7a443.jpg",
+    "static/media/testimonial.jpg": "/gymster/static/media/testimonial.f963a5496065807324cc.jpg",
+    "static/media/team-2.jpg": "/gymster/static/media/team-2.f41b36da57d1f40042ec.jpg",
+    "static/media/blog-3.jpg": "/gymster/static/media/blog-3.6d170527cb71d69d0146.jpg",
+    "static/media/blog-2.jpg": "/gymster/static/media/blog-2.9768f61744e2aa25c201.jpg",
+    "static/media/team-3.jpg": "/gymster/static/media/team-3.b0001dda8703d971874a.jpg",
+    "static/media/body.png": "/gymster/static/media/body.2108aaf752c04803aba5.png",
+    "static/media/blog-1.jpg": "/gymster/static/media/blog-1.300eb6f9ad18140da356.jpg",
+    "static/media/team-1.jpg": "/gymster/static/media/team-1.90baf769ce1579b09ec6.jpg",
+    "static/media/fit.svg": "/gymster/static/media/fit.f983daf7a9bef43f07fab72a61e6dda9.svg",
+    "index.html": "/gymster/index.html",
+    "main.4d3f66d7.css.map": "/gymster/static/css/main.4d3f66d7.css.map",
+    "main.bb268ec5.js.map": "/gymster/static/js/main.bb268ec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d3f66d7.css",
+    "static/js/main.bb268ec5.js"
+  ]
+}
